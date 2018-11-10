@@ -1,3 +1,4 @@
+Following [this post](http://www.foosoft.us/posts/2015-09-25-deploy-a-simple-nixops-website.html)
 ```
 nix-shell
 
